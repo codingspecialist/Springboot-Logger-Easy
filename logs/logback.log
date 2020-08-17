@@ -1,0 +1,4 @@
+[2020-08-17 14:32:35:342619][http-nio-8080-exec-1] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 찍혀?
+[2020-08-17 14:32:35:342619][http-nio-8080-exec-1] DEBUG c.c.l.config.aop.warn.BindingAdvice - 디버그 찍혀?
+[2020-08-17 14:32:35:342619][http-nio-8080-exec-1] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 찍혀?
+[2020-08-17 14:32:35:342619][http-nio-8080-exec-1] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 올바른 형식의 이메일 주소여야 합니다
